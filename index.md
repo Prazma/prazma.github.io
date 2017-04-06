@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Prazma
+>We are computer science team on GitHub. Feel free to call yourself a member of Prazma today by forking or commiting to our projects!
 
-You can use the [editor on GitHub](https://github.com/Prazma/prazma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Apps
+>Access to our web apps with a click
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**RoutiFi BETA** [Open WebApp](https://prazma.github.io/routifi)
+>Surf the internet without the internet connection
 
-### Markdown
+**Scanar BETA** [Open WebApp](https://prazma.github.io/scanar)
+>Scan and search any human activity beyond a solid object
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**BrainPods** [Open WebService](https://prazma.github.io/pods)
+>An open source article casting audio site. Free audio downloads for your projects and reports (anything that you are working on).
 
-```markdown
-Syntax highlighted code block
+**More Coming Soon!**
 
-# Header 1
-## Header 2
-### Header 3
+## About Prazma
+**Prazma is a computer science team that works on experimental projects. Prazma uses HTML5 commonly and works on [GitHub](https://github.com).** **Projects by Prazma** is an HTML5 WebApp Project that **anyone can fork on GitHub and contribute** to. **Feel free to call yourself a Prazma member when building a WebApp based on one of our projects!**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prazma/prazma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects by Prazma
+[Visit us on GitHub](https://github.com/Prazma) and Explore and Commit to our projects!
