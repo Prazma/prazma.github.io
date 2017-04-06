@@ -1,6 +1,8 @@
 ## Prazma
 >We are computer science team on GitHub. Feel free to call yourself a member of Prazma today by forking or commiting to our projects!
 
+***
+
 ## Apps
 **Access to our web apps with a click**
 
@@ -15,8 +17,12 @@
 
 **More Coming Soon!**
 
+***
+
 ## About Prazma
 **Prazma is a computer science team that works on experimental projects. Prazma uses HTML5 commonly and works on [GitHub](https://github.com).** **Projects by Prazma** is an HTML5 WebApp Project that **anyone can fork on GitHub and contribute** to. **Feel free to call yourself a Prazma member when building a WebApp based on one of our projects!**
+
+***
 
 ## Projects by Prazma
 [Visit us on GitHub](https://github.com/Prazma) and Explore and Commit to our projects!
